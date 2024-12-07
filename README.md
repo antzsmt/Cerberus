@@ -1,3 +1,8 @@
+[![GitHub issues](https://img.shields.io/github/issues/antzsmt/Cerberus)](https://github.com/antzsmt/Cerberus/issues)
+[![GitHub forks](https://img.shields.io/github/forks/antzsmt/Cerberus)](https://github.com/antzsmt/Cerberus/network)
+[![GitHub stars](https://img.shields.io/github/stars/antzsmt/Cerberus)](https://github.com/antzsmt/Cerberus/stargazers)
+
+
 ## Clashers Republic - Project
 
 ***Cerberus*** is a _3 Dimension Project_.
